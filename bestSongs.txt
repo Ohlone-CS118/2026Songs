@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Never gonna give you up
 
+=======
+Let's Go Crazy - Prince 
+>>>>>>> a2bbde873e5cac112c48d527a83992874d736a08
